@@ -2,11 +2,11 @@
 title: Alces Flight
 email: github@alces-flight.com
 description: >
-  Alces Software Products
+  Alces Flight Open Source Products
 baseurl: ""
 url: "http://alces-flight.github.io/"
-twitter_username: alces-software
-github_username: alces-software
+twitter_username: alces-flight
+github_username: alces-flight
 
 # Build settings
 markdown: kramdown
